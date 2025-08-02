@@ -5,7 +5,6 @@ Add the two numbers and return the sum as a linked list.
 https://leetcode.com/problems/add-two-numbers/
 """
 
-#Definition for singly-linked list.
 class ListNode(object):
     def __init__(self, val=0, next=None):
          self.val = val
