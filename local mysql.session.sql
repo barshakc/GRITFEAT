@@ -72,4 +72,3 @@ GROUP BY tran_date
 ORDER BY num_transactions DESC
 LIMIT 1;
 
-
